@@ -1,2 +1,2 @@
 # hello-world
-First gethub repository test
+Hi my name is Bridget and this is my first gethub repository!
